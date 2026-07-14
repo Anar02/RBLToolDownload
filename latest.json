@@ -1,7 +1,10 @@
 {
-  "version": "0.2.0",
+  "version": "0.1.1",
   "notes": [
-    "Première version de RBL Tools"
+    "Téléchargement des mises à jour directement depuis l'application",
+    "Lancement automatique de l'installateur",
+    "Fermeture de RBL Tools avant l'installation",
+    "Suppression automatique de l'installateur temporaire",
   ],
-  "installer_url": "https://github.com/Anar02/RBLToolDownload/releases/download/v0.1.0/RBLTools-Setup-0.1.0.exe"
+  "installer_url": "https://github.com/Anar02/RBLToolDownload/releases/download/v0.1.1/RBLTools-Setup-0.1.1.exe"
 }
