@@ -4,7 +4,7 @@
     "Téléchargement des mises à jour directement depuis l'application",
     "Lancement automatique de l'installateur",
     "Fermeture de RBL Tools avant l'installation",
-    "Suppression automatique de l'installateur temporaire",
+    "Suppression automatique de l'installateur temporaire"
   ],
   "installer_url": "https://github.com/Anar02/RBLToolDownload/releases/download/v0.1.1/RBLTools-Setup-0.1.1.exe"
 }
